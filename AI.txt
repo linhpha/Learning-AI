@@ -1,0 +1,31 @@
+#Is it made by Boeing?
+#Is it single-asle?
+#Does it have 2 engines?
+#Does hold more than 200 passengers?
+Boeing 757
+Boeing 737
+Boeing 727
+#Does it have two decks?
+Boeing 747
+#Is it made before the 60's?
+Boeing 707
+#Does it have raked winglets?
+#Does it not have GENx Engines?
+Boeing 777
+Boeing 787
+Boeing 767
+#Does it have four engines?
+#Does it have 2 decks?
+Airbus A380
+Airbus A340
+#Is it fly-by-wire?
+#Is it twin-asle?
+#Does it have three engines?
+Airbus A330
+McDonnell Douglas MD-11
+#Is it made by Airbus
+Airbus A320
+Embraer 175
+#Does it have two engines?
+Airbus A300
+DC10
